@@ -4,11 +4,11 @@
 ##  Hello world! Welcome to Irina's GitHub!
 
 <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
-I'm a junior Ruby on Rails developer who embarked on this coding journey through a bootcamp, and I haven't looked back since. My experience includes working with and maintaining a robust and very custom Monolithic system for a non-profit company tied to education and conference. There I've honed my skills in <b>Ruby on Rails, SQL, Javascript, CSS, and HTML</b>, with a primary focus on backend development. I was the brain part of the system data migration that happened while the company was trying to walk away from the monolithic structure to the microsevices, so I am now quite good with the <b>PostgreSQL</b> databases. I have also tackled numerous website maintenance tasks and bug fixes.</p>
+I'm a junior Ruby on Rails developer who embarked on this coding journey through the Launch Academy bootcamp, and I haven't looked back since. My experience includes working with and maintaining a robust and very custom Monolithic system for a non-profit company tied to education and conferences. There I've honed my skills in <b>Ruby on Rails, SQL, Javascript, CSS, and HTML</b>, with a primary focus on backend development. I was the brain part of the system data migration that happened while the company was trying to walk away from the monolithic structure to the microservices, so I am now quite good with the <b>PostgreSQL</b> databases. I have also tackled numerous website maintenance tasks and bug fixes.</p>
 
 <p>
 🌍
-With extensive remote work experience, I've learned to adapt quickly to different environments and thrive in collaborative settings. Communication is my forte, and I enjoy both learning and teaching. I have a knack for explaining complex topics in simple and easy-to-understand terms. Outside of coding, I have a passion for photography, learning new languages and exploring new places, making me an enthusiastic traveler and a versatile team player.</p>
+With extensive remote work experience, I've learned to adapt quickly to different environments and thrive in collaborative settings. Communication is my forte, and I enjoy both learning and teaching. I have a knack for explaining complex topics in simple and easy-to-understand terms. Outside of coding, I have a passion for photography, learning new languages, and exploring new places, making me an enthusiastic traveler and a versatile team player.</p>
 
 <p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
@@ -35,10 +35,12 @@ I am presently dedicated to the development of my passion project, <b>"Girlvelop
 <hr></hr>
 <h3 align="left">📊 Statistics:</h3>
 <br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iseitz&show_icons=true&locale=en&layout=compact" alt="iseitz" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iseitz&show_icons=true&locale=en&hide=stars" alt="iseitz" /></p>
-
+<box>
+ 
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iseitz&show_icons=true&locale=en&layout=compact" alt="iseitz" />
+  
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=iseitz&show_icons=true&locale=en&hide=stars" alt="iseitz" />
+  
+</box>
 
 
