@@ -21,7 +21,7 @@ I am presently dedicated to the development of my passion project, <b>"Girlvelop
 <br/>
 <p align="left">
 <a href="https://linkedin.com/in//irina-karchebnaya-seitz/" target="blank"><img align="center" src="https://img.shields.io/badge/-irinaseitz-blue?style=flat-square&logo=Linkedin&logoColor=white&style=for-the-badge" alt="/irina-karchebnaya-seitz/" height="30"  /></a>
-<a href="mailto:karchebnaya.irina@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="karchebnaya.irina@gmail.com" height="30" /></a>
+<a href="mailto:karchebnaya.irina@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-karchebnaya.irina-red?style=flat&logo=Gmail&logoColor=white" alt="karchebnaya.irina@gmail.com" height="30" /></a>
 <a href="https://stackoverflow.com/users/9481404" target="blank"><img align="center" src="https://img.shields.io/badge/-irinaseitz-orange?style=flat-square&logo=stack-overflow&logoColor=white&style=for-the-badge" alt="iseitz" height="30"/></a>
 <a href="https://www.leetcode.com/iseitz" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06&style=for-the-badge" alt="iseitz" height="30"/></a>
 </p>
