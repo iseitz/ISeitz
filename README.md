@@ -4,15 +4,15 @@
 ##  Hello world! Welcome to Irina's GitHub!
 
 <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
-I'm a junior Ruby on Rails developer who embarked on this coding journey through the Launch Academy bootcamp, and I haven't looked back since. My experience includes working with and maintaining a robust and very custom Monolithic system for a non-profit company tied to education and conferences. There I've honed my skills in <b>Ruby on Rails, SQL, Javascript, CSS, and HTML</b>, with a primary focus on backend development. I was the brain part of the system data migration that happened while the company was trying to walk away from the monolithic structure to the microservices, so I am now quite good with the <b>PostgreSQL</b> databases. I have also tackled numerous website maintenance tasks and bug fixes.</p>
+I'm a junior Ruby on Rails developer who embarked on this coding journey through the Launch Academy Boot Camp, and I haven't looked back since. My experience includes maintaining a very custom Monolith system for an engineering education and conferences non-profit. There I've honed my skills in <b>Ruby on Rails, SQL, Javascript, CSS, and HTML</b>, with a primary focus on backend development. I implemented a full data migration of the system that happened while the company was walking away from the monolithic structure to the microservices, so I am now quite good with <b>PostgreSQL</b> databases. I have also tackled numerous website maintenance tasks and bug fixes.</p>
 
 <p>
 🌍
-With extensive remote work experience, I've learned to adapt quickly to different environments and thrive in collaborative settings. Communication is my forte, and I enjoy both learning and teaching. I have a knack for explaining complex topics in simple and easy-to-understand terms. Outside of coding, I have a passion for photography, learning new languages, and exploring new places, making me an enthusiastic traveler and a versatile team player.</p>
+With extensive remote work experience, I've learned to quickly adapt to different environments and thrive in virtual collaboration. Communication is my forte, and I enjoy both learning and teaching. I have a knack for explaining complex topics in simple and easy-to-understand terms. Outside of coding, I have a passion for photography, learning new languages, and exploring new places, making me an enthusiastic traveler and a versatile team player.</p>
 
 <p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-I am presently dedicated to the development of my passion project, <b>"Girlveloper"</b>, a comprehensive platform designed for both teaching and learning. This endeavor is meticulously crafted using Ruby on Rails. My ultimate goal is to contribute to the empowerment of underrepresented minorities in tech in the tech industry. My aspiration is to provide them with the resources and education needed to thrive in the world of coding and technology.</p>
+I am presently dedicated to my passion project, <b>"Girlveloper"</b>, a comprehensive platform designed for teaching and learning. <b>"Girlveloper"</b> is crafted using Ruby on Rails. My goal is to empower underrepresented minorities in tech in the tech industry by providing the resources and education to thrive in the world of coding and technology.</p>
 
  <br/>
 <hr></hr>
